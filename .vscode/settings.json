@@ -11,8 +11,8 @@
   ],
   "jest.autoRun": "off",
   "workbench.colorCustomizations": {
-    "activityBar.background": "#0B3241",
-    "titleBar.activeBackground": "#0F465B",
-    "titleBar.activeForeground": "#F5FBFD"
+    "activityBar.background": "#342E00",
+    "titleBar.activeBackground": "#484000",
+    "titleBar.activeForeground": "#FFFBDB"
   },
 }
